@@ -20,6 +20,7 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+//main
 public class MainActivity extends AppCompatActivity {
 
     private ArrayList<ImageModel> modelClassList;
